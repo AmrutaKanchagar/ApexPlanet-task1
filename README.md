@@ -70,14 +70,7 @@ How to build responsive layouts using media queries
 ApexPlanet Software Pvt. Ltd. provides high-quality digital solutions and structured internship programs to help students gain practical experience in web development.
 Learn more: https://www.apexplanet.in/internship/
 
-## 🚀 How to Run
+## 🚀 How to see🙈 
 
-*Open the folder and double-click index.html
-Enjoy the design in your browser 🌐
-
-*Clone or download the repository  
-   ```bash
-   git clone https://github.com/AmrutaKanchagar/ApexPlanet-task1
-
-
+click this https://amrutakanchagar.github.io/ApexPlanet-task1/
 
